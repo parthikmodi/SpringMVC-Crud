@@ -4,11 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Welcome to CRUD</title>
 </head>
 <body>
-	<p>Database Connection</p>
-	<a href="Add">Add Student</a>
-	<a href="ListStudents">List of Students</a>
+	<p>Click
+	<a href="Add">Add Student</a> to add student
+	<a href="ListStudents">List of Students</a> to view student list </p>
 </body>
 </html>
